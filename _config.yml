@@ -25,7 +25,7 @@ author: Calumet45
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://www.davemeans.business'
+url: 'http://davemeans.business'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content: #https://github.com/Calumet45/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://www.davemeans.business/images/'
+urlimg: 'http://davemeans.business/images/'
 
 
 # Logo size is 600x80 pixels
@@ -203,7 +203,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+disqus_shortname: calumet45
 
 
 #      _____
@@ -245,4 +245,4 @@ google_tag_manager_id: GTM-T2TWKG
 #
 # used in _includes/footer_scripts
 
-# tawkto_embed_uri:
+tawkto_embed_uri: https://embed.tawk.to/576486c21a3b8dd53cdf41a4/default
