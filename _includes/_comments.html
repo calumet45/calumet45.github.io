@@ -6,7 +6,8 @@
 			        var disqus_shortname = '{{ site.disqus_shortname }}'; 
 			        var disqus_identifier = '{{ page.url }}';
 		          var disqus_config = function () {
-				        this.page.url = '{{ url }}{{ page.url }}';  // Replace PAGE_URL with your page's canonical URL variable
+		          	// {{ site.url }}
+				        this.page.url = '{{ domain }}{{ page.url }}';  // Replace PAGE_URL with your page's canonical URL variable
 				        this.page.identifier = '{{ page.url }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 				    };
 			        /* * * DON'T EDIT BELOW THIS LINE * * */
