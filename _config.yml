@@ -248,3 +248,5 @@ google_tag_manager_id: GTM-T2TWKG
 # used in _includes/footer_scripts
 
 tawkto_embed_uri: https://embed.tawk.to/576486c21a3b8dd53cdf41a4/default
+tawkto_inline_uri: https://embed.tawk.to/576486c21a3b8dd53cdf41a4/1alnce53s
+tawkto_is_inline: true
