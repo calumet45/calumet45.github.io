@@ -1,7 +1,7 @@
 - name: GitHub
   url: http://github.com/calumet45
   class: icon-github
-  title: Git
+  title: "Git"
 
 - name: YouTube
   url: https://www.youtube.com/calumet45/
@@ -46,4 +46,4 @@
  - name: LinkedIn
    url: https://www.linkedin.com/in/davidmeans/
    class: icon-linkedin
-   title: LinkedIn
+   title: "LinkedIn"
