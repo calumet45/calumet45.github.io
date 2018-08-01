@@ -1,21 +1,30 @@
 - title: "Me"
   url: "/"
   side: left
+- title: "Work"
+  url: "/stuff/"
+  side: left
+  dropdown:
+  - title: "Page/Post"
+    url: "/design/page/"
+  - title: "Video"
+    url: "/design/video/"
+  - title: "Gallery"
+    url: "/design/gallery/"
+- title: "Search"
+  url: "/search/"
+  side: right
+- title: "Contact"
+  url: "/contact/"
+  side: left
 
 # - title: Getting Started
 #   url: "/getting-started/"
 #   side: left
-
- - title: "Templates"
-   url: "/stuff/"
-   side: left
-   dropdown:
 #   - title: "Grid & Colors"
 #     url: "/design/grid/"
 #   - title: "Typography"
 #     url: "/design/typography/typography/"
-   - title: "Page/Post"
-     url: "/design/page/"
 #   - title: "Post-Left-Sidebar"
 #     url: "/design/post-left-sidebar/"
 #   - title: "Post-Right-Sidebar"
@@ -24,13 +33,8 @@
 #     url: "/design/page-fullwidth/"
 #   - title: "Blog-Page"
 #     url: "/blog/"
-   - title: "Video"
-     url: "/design/video/"
-   - title: "Gallery"
-     url: "/design/gallery/"
 #   - title: "Portfolio"
 #     url: "/design/portfolio/"
-
 # - title: "Header Styles"
 #   url: "/headers/"
 #   side: left
@@ -66,10 +70,3 @@
 #  - title: "Blog Archive"
 #    url: "/blog/archive/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
-  side: left
